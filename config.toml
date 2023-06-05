@@ -3,3 +3,6 @@ languageCode = 'nl-nl'
 title = 'Vonkenzee Metaalbewerking'
 theme = 'ananke'
 googleAnalytics = 'G-PV2J0QKPET'
+
+[params]
+site_logo = 'logo.png'
