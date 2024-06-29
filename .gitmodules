@@ -1,0 +1,3 @@
+[submodule "themes/hugo-logo-only"]
+	path = themes/hugo-logo-only
+	url = https://github.com/supakeen/hugo-logo-only
