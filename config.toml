@@ -1,8 +1,8 @@
 baseURL = 'https://vonkenzee.nl/'
 languageCode = 'nl-nl'
 title = 'Vonkenzee Metaalbewerking'
-theme = 'ananke'
+theme = 'vonkenzee-hugo'
 googleAnalytics = 'G-PV2J0QKPET'
 
 [params]
-site_logo = 'logo.png'
+avatar = 'logo.png'
